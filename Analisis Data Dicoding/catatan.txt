@@ -1,0 +1,6 @@
+Saran:
+
+Memberikan dokumentasi menggunakan markdown/text cell pada notebook (.ipynb) untuk menjelaskan setiap tahapan analisis data. 
+Membuat visualisasi data yang baik dan efektif dengan menerapkan prinsip desain dan integritas.
+Deploy dashboard ke dalam streamlit cloud.
+Menerapkan teknik analisis lanjutan seperti RFM analysis, geoanalysis, clustering, dll. (Tanpa menggunakan algoritma machine learning).
